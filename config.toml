@@ -1,43 +1,4 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Chris Kendick Photography"
-theme = "rocinante"
-paginate = 3
-summaryLength = 0
-
-[markup]
-  [markup.highlight]
-    style = "monokailight"
-    tabWidth = 2
-  [markup.goldmark.renderer]
-    unsafe= true
-
-[author]
-  name = "Chris Kendrick"
-
-[params]
-  mainSections = ["post", "photos"]
-  email = "ChrisKendrickPhotography@gmail.com"
-  favicon = "icon/ck.png"
-  about = """
-Hi. I'm **Chris**, image creator and drone pilot based out of Mid-Missouri.
-"""
-  [[params.links]]
-    [[params.links.link]]
-      name = "Email"
-      href = "/contact"
-      smart_email_link = true
-
-  [[params.links]]
-    [[params.links.link]]
-      name = "Facebook"
-      href = "https://facebook.com/ChrisKendrickPhotographyLLC/"
-      new_tab = true
-    [[params.links.link]]
-      name = "Instagram"
-      href = "https://www.instagram.com/chriskendrickphotography/"
-      new_tab = true
-    [[params.links.link]]
-      name = "LinkedIn"
-      href = "https://linkedin.com/in/ChrisKendrickPhotography/"
-      new_tab = true
+theme = ""
