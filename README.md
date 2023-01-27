@@ -1,5 +1,3 @@
 # ckp-test-site
 
-## Rocinate
-
- git clone https://github.com/mavidser/hugo-rocinante.git themes/rocinante
+test repo for building into Azure
