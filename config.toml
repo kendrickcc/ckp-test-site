@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "Chris Kendrick Photography"
 baseURL = "https://yellow-ground-0f3f3a910.2.azurestaticapps.net/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
@@ -28,9 +28,9 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  author = "Chris Kendrick"
+  description = "Chris Kendrick Photography."
+  keywords = "blog,personal,posts,photography,drone,photogrammetry"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -39,9 +39,9 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
-  algolia_appId     = "45CEN6X6AT"
-  algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
+  algolia_search    = false
+  algolia_appId     = ""
+  algolia_apiKey    = ""
   algolia_indexName = "bilberry-hugo-theme"
   # Set this option to false if you want to search within all articles in all languages at once
   algolia_currentLanguageOnly = true
@@ -80,16 +80,16 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Image creator and drone pilot based out of Mid-Missouri."
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = "ChrisKendrickPhotography@gmail.com"
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = ""
 
     # define the icon you want to use for the overlay for the customImage or avatar.
-    overlayIcon = "fa-home"
+    overlayIcon = "fa-camera"
 
     # always display the top navigation (with pages and search) on non-mobile screens
     permanentTopNav = false
@@ -99,7 +99,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -133,7 +133,7 @@ disqusShortname = ""
     amountCategoriesInFooter = 7
 
     # show a language chooser in the footer
-    showFooterLanguageChooser = true
+    showFooterLanguageChooser = false
 
     # social media profile urls for the footer links
     showSocialMedia = true
@@ -153,10 +153,10 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Chris Kendrick Photography, LLC"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
+    copyrightYearOverride = ""
+    copyrightUrl = "https://github.com/kendrickcc"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
@@ -166,10 +166,6 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
-  [Languages.de]
-    weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 [markup]
   defaultMarkdownHandler = 'goldmark'

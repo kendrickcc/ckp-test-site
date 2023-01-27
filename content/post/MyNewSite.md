@@ -3,8 +3,8 @@ title: "My New Site"
 date: 2023-01-21T17:31:12-06:00
 showDate: true
 draft: false
-tags: ["blog","Azure","Adobe","Microsoft","Hugo"]
-series: ["web"]
+tags: ['Azure','Adobe','Microsoft','Hugo']
+categories: ['web']
 ---
 
 I finally moved my website.
