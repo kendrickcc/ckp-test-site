@@ -2,6 +2,7 @@
 title:  Another post is here
 date: 2017-09-07
 tags: ["Samples", "Example", "Specimen"]
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

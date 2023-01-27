@@ -1,6 +1,6 @@
 ---
 title: "My New Site"
-date: 2023-01-21T17:31:12-06:00
+date: 2023-01-27T17:31:12-06:00
 showDate: true
 draft: false
 tags: ['Azure','Adobe','Microsoft','Hugo']
@@ -36,3 +36,5 @@ I also use Azure for my photography backup. I don't use a backup service because
 The biggest attraction for me is that if I feel the web site is no longer needed; a waste of resources, I can delete the web app out of Azure and that is it. I can redeploy it at a later time if warranted. I'm only billed for what Azure resources are consumed. I also have change control meaning that if I make a change and it crashes the web site, I only need to revert the commit in GitHub. 
 
 Yes, there is a lot of upfront learning, trial and error, but now I really feel in control of my web site. 
+
+This site's theme is `Bilberry`. You can find a link to the theme at the bottom of the page. 
