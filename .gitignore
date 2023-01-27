@@ -1,5 +1,5 @@
+.hugo_build_lock
 .DS_Store
 exampleSite
 resources
-_gen
 public
