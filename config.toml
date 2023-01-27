@@ -1,5 +1,5 @@
 title = "My cool new Blog"
-baseURL = "https://example.com/"
+baseURL = "https://yellow-ground-0f3f3a910.2.azurestaticapps.net/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 #theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
