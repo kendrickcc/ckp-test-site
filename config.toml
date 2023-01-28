@@ -30,7 +30,7 @@ disqusShortname = ""
   # Description and meta data for the search engines
   author = "Chris Kendrick"
   description = "Chris Kendrick Photography."
-  keywords = "blog,personal,posts,photography,drone,photogrammetry"
+  keywords = "blog,personal,posts,gallery,photography,drone,photogrammetry"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -50,13 +50,13 @@ disqusShortname = ""
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
-  giscus             = false
+  giscus             = true
   giscusJsUrl        = "https://giscus.app/client.js"
-  giscusRepository   = "[ENTER REPO HERE]"
-  giscusRepositoryId = "[ENTER REPO ID HERE]"
+  giscusRepository   = "kendrickcc/CKPWebSiteComments"
+  giscusRepositoryId = "R_kgDOI1fKEw"
   giscusMapping      = "pathname"
-  giscusCategory     = "[ENTER CATEGORY NAME HERE]"
-  giscusCategoryId   = "[ENTER CATEGORY ID HERE]"
+  giscusCategory     = "Comments"
+  giscusCategoryId   = "DIC_kwDOI1fKE84CTyR9"
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
