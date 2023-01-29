@@ -74,6 +74,9 @@ disqusShortname = ""
   utterancesTheme       = "github-light"
   utterancesCrossOrigin = "anonymous"
 
+  # Formspree
+  formspreeId = "mqknwqkw"
+
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
     # NB: When enabled the image files get renamed by adding additional information,
