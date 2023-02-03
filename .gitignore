@@ -4,9 +4,5 @@ resources
 public
 
 ### macOS ###
-*.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
+.DS_Store
 ._*
