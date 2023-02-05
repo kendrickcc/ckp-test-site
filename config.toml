@@ -5,7 +5,7 @@ theme = "ananke"
 
 # SectionPagesMenu = "main"
 SectionPagesMenu = ""
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [menu]
 [[menu.main]]
   name = 'Articles'
-  url = '/posts'
+  url = '/post'
   weight = 20
 [[menu.main]]
   name = 'Categories'
@@ -36,17 +36,17 @@ enableRobotsTXT = true
   weight = 40
 [[menu.main]]
   name = 'Contact'
-  url = '/pages/contact'
+  url = '/page/contact'
   weight = 80
 [[menu.main]]
   name = 'About'
-  url = '/pages/about'
+  url = '/page/about'
   weight = 90
 
 
 [params]
   text_color = ""
-  author = "Chris Kendrick"
+  author = ""
   favicon = "/images/ck-favicon.png"
   site_logo = "/images/CKP-logo.png"
   description = "Chris Kendrick Photography"

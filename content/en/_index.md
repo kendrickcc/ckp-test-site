@@ -1,6 +1,4 @@
 ---
 title: "Chris Kendrick Photography"
-featured_image: '/images/ckp-background.png'
+featured_image: '/images/cover.png'
 ---
-
-Welcome to my blog with some of my work in progress.
