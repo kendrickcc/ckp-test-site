@@ -56,9 +56,19 @@ enableRobotsTXT = true
   show_reading_time = true
   custom_css = ["_styles.css"]
 
+  # Formspree
+  # formspreeId = "mqknwqkw"
+
 [[params.ananke_socials]]
   name = "facebook"
   url = "https://facebook.com/ChrisKendrickPhotographyLLC"
 [[params.ananke_socials]]
   name = "instagram"
   url   = "https://www.instagram.com/chriskendrickphotography/"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # change to 'true' if you need to render raw HTML within your markdown content
+      unsafe = true
