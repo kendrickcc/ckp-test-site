@@ -2,6 +2,8 @@
 title: "About"
 description: "Image creator based out of Mid-Missouri."
 show_reading_time: false
+featured_image: '/images/cover.png'
+show_title: false
 ---
 
 {{< figure src="/images/profile-bw.png" height=300 alt="Chris Kendrick">}}

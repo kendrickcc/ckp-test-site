@@ -27,20 +27,20 @@ enableRobotsTXT = true
   url = '/post'
   weight = 20
 [[menu.main]]
-  name = 'Categories'
-  url = '/categories'
-  weight = 30
-[[menu.main]]
-  name = 'Tags'
-  url = '/tags'
-  weight = 40
-[[menu.main]]
   name = 'Contact'
   url = '/page/contact'
-  weight = 80
+  weight = 30
 [[menu.main]]
   name = 'About'
   url = '/page/about'
+  weight = 40
+[[menu.main]]
+  name = 'Categories'
+  url = '/categories'
+  weight = 80
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags'
   weight = 90
 
 
@@ -52,6 +52,7 @@ enableRobotsTXT = true
   description = "Chris Kendrick Photography"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-gray"
+  recent_posts_number = 6
   show_reading_time = true
   custom_css = ["_styles.css"]
 
