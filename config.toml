@@ -1,4 +1,4 @@
-baseURL                          = "https://yellow-ground-0f3f3a910.2.azurestaticapps.net/"   # Your domain name. Must end with "/"
+baseURL                          = "https://purple-plant-0beeff310.2.azurestaticapps.net/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
