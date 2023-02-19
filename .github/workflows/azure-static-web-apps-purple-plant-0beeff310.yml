@@ -33,7 +33,8 @@ jobs:
 
       - name: Install npm pre-reqs
         run: |
-          npm install -g postcss postcss-cli autoprefixer
+          npm install postcss-cli
+          npm install -g postcss autoprefixer
           npm fund
 
       - name: Cache V3 - Hugo
